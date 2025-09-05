@@ -11,5 +11,4 @@ This project analyzes e-commerce orders dataset from Kaggle.
 - Total Orders KPI
 - Interactive Filters (Year, Month, State)
 
-## Screenshot
-- e-commerce.png
+![Dashboard Screenshot](e-commerce.png)
